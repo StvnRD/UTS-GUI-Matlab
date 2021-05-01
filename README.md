@@ -2,4 +2,4 @@
 </br>
 
 
-![GUI](https://user-images.githubusercontent.com/56438848/116786840-20c81a80-aacb-11eb-9b81-bcc2563d7efb.JPG)
+![GUI](https://user-images.githubusercontent.com/56438848/116786894-566d0380-aacb-11eb-8d62-72f0d4aa43ac.JPG)
